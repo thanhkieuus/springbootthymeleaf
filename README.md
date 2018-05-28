@@ -1,0 +1,2 @@
+# springbootthymeleaf
+Simple thymeleaf project
